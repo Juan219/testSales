@@ -1,0 +1,7 @@
+{
+    "Stores":[
+             {"name" : "Walmart", "identifier":1 , "img":"http://admin.csrwire.com/system/profile_logos/12774/original/wmt_logo_2.JPG"},
+             {"name" : "Kruger",  "identifier":2 , "img":"http://media.graytvinc.com/images/kroger38.jpg"},
+             {"name" : "BestBuy", "identifier":3 , "img":"http://file.answcdn.com/answ-cld/image/upload/v1/tk/brand_image/cd4fe6a0/14c2f8f0a580c4c93ec51864c5c108e420934096.png"}
+             ]
+}

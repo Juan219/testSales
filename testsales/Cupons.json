@@ -1,0 +1,5 @@
+{
+    "Cupons":[
+                {"name" : "Discount for Meat",    "identifier":1000 , "productId":100, "amount": 10.0}
+            ]
+}

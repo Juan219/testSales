@@ -1,0 +1,10 @@
+{
+    "Products":[
+              {"name" : "Cereal",    "identifier":100 , "img":"http://www.mommygoggles.com/wp-content/uploads/2009/09/gv2.jpg", "storeId":1, "price": 10000.0},
+              {"name" : "Bread",     "identifier":101 , "img":"http://sheblogsit.com/wp-content/uploads/2013/07/Bzz-Kroger-bbq.png", "storeId":2, "price": 4.0},
+              {"name" : "Cookies","identifier":102 , "img":"http://3.bp.blogspot.com/-X94k2GZdbYA/Uj3U3A5XNnI/AAAAAAAACks/5EmkDeSJp1I/s1600/Bzz+lunchbox+hero.png", "storeId":2, "price": 3.0},
+              {"name" : "Yoghurt"  ,"identifier":103 , "img":"https://oldredcrayon.files.wordpress.com/2013/03/good4u.jpg", "storeId":2, "price": 2.0}
+              ]
+    
+    
+}
